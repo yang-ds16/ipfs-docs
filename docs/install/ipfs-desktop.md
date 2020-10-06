@@ -7,6 +7,8 @@ description: For a simple, straight-forward way to interact with the IPFS networ
 
 IPFS Desktop is the easiest way to get up and running quickly with IPFS. It allows you to run an IPFS node on your machine _without_ having to bother with command-line tools or package management. It gives you the power of the [IPFS Web UI](https://github.com/ipfs-shipyard/ipfs-webui), plus a handful of useful shortcuts and settings.
 
+![IPFS Desktop showing the status screen.](./images/ipfs-desktop/ipfs-desktop-showing-status-screen.png)
+
 The installation steps differ between operating systems, so follow the instructions for your system.
 
 | [Windows](#windows)                                                 | [macOS](#macos)                                               | [Ubuntu](#Ubuntu)                                                |
